@@ -1,5 +1,7 @@
 This is a [TinaCMS](https://tina.io/) starter project.
 
+**This project is still under development**
+
 Edit your site visually in the browser, ship it as fast static HTML.
 
 ## Getting started
